@@ -1,0 +1,25 @@
+ <div class="garage-container">
+        <div class="ceiling-light"></div>
+
+        <div class="wall-logo">
+            <img src="ferrarif1.png" alt="Ferrari Logo">
+        </div>
+
+        <div class="ui-wrapper">
+            
+            <aside class="panel left-panel">
+                <h3>PERFORMANCE DATA</h3>
+                <div class="stats-grid">
+                    <div class="gauge"><div class="num" id="speed">211</div><span>MPH</span></div>
+                    <div class="gauge"><div class="num" id="revs">8500</div><span>RPM</span></div>
+                    <div class="gauge"><div class="num">2.5</div><span>0-60</span></div>
+                    <div class="gauge"><div class="num">98%</div><span>OIL</span></div>
+                </div>
+                <div class="mini-preview">
+                    <img src="ferrarif40.png" alt="Engine View">
+                </div>
+             </aside>
+
+
+
+             
